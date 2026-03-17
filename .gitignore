@@ -1,0 +1,23 @@
+# Python / virtualenv
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Dados (não versionar)
+*.xlsx
+*.xls
+*.csv
+
+# Logs
+*.log
+
